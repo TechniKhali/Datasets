@@ -8,4 +8,4 @@
 
 [playstation2-games](https://www.kaggle.com/datasets/japandata509/playstation2-games)
 
-([video-games-and-consoles](https://www.kaggle.com/datasets/thatdatasciguy/video-games-and-consoles?select=platforms.csv)
+[video-games-and-consoles](https://www.kaggle.com/datasets/thatdatasciguy/video-games-and-consoles?select=platforms.csv)
